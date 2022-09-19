@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 public class StreamTeste14 {
     private static List<LightNovel> lightNovels = new ArrayList<>(List.of(
             new LightNovel("Avatar", 8.99, Category.FANTASY),
-            new LightNovel("Sete Pecado Capitais", 3.99, Category.FANTASY),
+            new LightNovel("Sete Pecado Capitais", 3.99, Category.DRAMA),
             new LightNovel("One Piece", 2.99,Category.DRAMA),
             new LightNovel("Dragon Ball Z", 1.99,Category.FANTASY),
             new LightNovel("Dragon Ball Z", 1.99,Category.FANTASY),
